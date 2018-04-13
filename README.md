@@ -10,4 +10,6 @@ Next, I downloaded 5 Game of Thrones characters' photos (including 'Arya_Stark',
 
 Finally, I picked several photos from the testing set, which weren't included in the training set. This app recognized the characters correctly.
 
-Code and Results see: 
+Code and Results see: [Game_of_thrones-Face-Detection-and-Identification](https://github.com/lywemma/Game_of_thrones-Face-Detection-and-Identification/blob/master/Face_Detection.ipynb)
+
+reference: https://www.superdatascience.com/opencv-face-recognition/
