@@ -12,4 +12,4 @@ Finally, I picked several photos from the testing set, which weren't included in
 
 Code and Results see: [Game_of_thrones-Face-Detection-and-Identification](https://github.com/lywemma/Game_of_thrones-Face-Detection-and-Identification/blob/master/Face_Detection.ipynb)
 
-reference: https://www.superdatascience.com/opencv-face-recognition/
+<!--reference: https://www.superdatascience.com/opencv-face-recognition/-->
